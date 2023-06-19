@@ -1,3 +1,5 @@
+[![Build](https://github.com/Belosnegova/Programming-in-Kotlin-homework-2/actions/workflows/HW3.yml/badge.svg)](https://github.com/Belosnegova/Programming-in-Kotlin-homework-2/actions/workflows/HW3.yml)
+
 # Task 2. Balanced Search Tree
 
 Implement a generic BST (i.e. AVL, Cartesian tree, Splay). Using it, implement interfaces:
